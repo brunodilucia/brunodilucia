@@ -29,31 +29,27 @@
 
 ## 🛠️ La mia "attrezzatura"
 
-Utilizzo questo ambiente per testare vulnerabilità, simulare reti aziendali e far girare i miei strumenti di difesa in Python.
 
 ### 💻 Main Station (Workstation)
 - **OS:** Windows 11 (Host principale per lo studio e il gaming)
 - **CPU:** [Inserisci il tuo Processore, es: Intel i7 / AMD Ryzen 7]
 - **RAM:** [Es: 16GB / 32GB] - Fondamentale per far girare più macchine contemporaneamente.
 
-### 🛡️ Virtualization Environment (Il cuore del Lab)
-Utilizzo **VMware** / **VirtualBox** per gestire un ecosistema isolato:
-- 🕵️ **Kali Linux:** La mia macchina principale per i test di penetrazione.
-- 🎯 **Metasploitable / Vulnerable VMs:** Target per esercitazioni pratiche.
+### 🛡️ Virtualization Environment
+Utilizzo **VirtualBox** per ricreare un ambiente isolato e sicuro che mi permette di testare vulnerabilità, fare penetration test e analizzare malware:
+- 🕵️ **Kali Linux:** La mia macchina principale per i test di penetrazione e i tool di sicurezza.
+- 🎯 **Metasploitable** Macchina target per esercitazioni pratiche.
 - 🖥️ **Windows Server 2022:** Utilizzato per lo studio di Active Directory e delle relative falle di sicurezza.
+- 🦠 **FlareVM:** Utilizzato per la Malware Analysis.
 
 ### 🔌 Home Server & Network
 Il mio server casalingo dove risiede l'IDS che sto sviluppando:
-- **Hardware:** [Es: Raspberry Pi 4 / Vecchio PC dedicato / Mini PC]
-- **OS:** Ubuntu Server (Headless)
+- **Hardware:** HP EliteDesk 800 G4]
+- **OS:** Ubuntu Server
 - **Servizi Attivi:**
   - 🐳 **Docker:** Per containerizzare microservizi di monitoraggio.
   - 🔍 **Mio IDS (Python):** Il mio progetto principale di monitoraggio rete.
   - 🛑 **Pi-hole:** Per il filtraggio del traffico DNS a livello di rete.
-
-### 🛠️ Tooling & Editor
-- **IDE:** VS Code (Configurato per Python e Bash)
-- **Terminale:** Windows Terminal / PowerShell / Oh My Zsh (su Linux)
 
 ## 📫 Contatti
 
