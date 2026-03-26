@@ -32,14 +32,13 @@
 -   **Linux:** (Debian, Ubuntu) 🐧
 -   **Virtualizzazione:** Docker, Proxmox 🐳
 
-<h2>📊 Le Mie Statistiche</h2>
+  <h2>💡 La mia "attrezzatura"</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IL_TUO_USERNAME_GITHUB&show_icons=true&theme=nord&count_private=true" alt="Statistiche GitHub di [Il Tuo Nome]" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IL_TUO_USERNAME_GITHUB&layout=compact&theme=nord&hide=html,css" alt="Linguaggi più usati da [Il Tuo Nome]" />
-</p>
+### 🛡️ Cyber Security
+-   Penetration Testing (Network & Web)
+-   Gestione di IDS/IPS & Firewall (UFW, iptables)
+-   Log Analysis & Incident Response
 
-## 📫 Come Contattarmi
 ## 📫 Contatti
 
 Se vuoi scambiare idee su progetti o semplicemente conoscerci, contattami pure su uno di questi canali:
