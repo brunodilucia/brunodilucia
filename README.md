@@ -1,13 +1,10 @@
-# Ciao! Sono Bruno 👋
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=IL_TUO_LINK_LINKEDIN)](IL_TUO_LINK_LINKEDIN)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/IL_TUO_USERNAME_TELEGRAM)](https://t.me/IL_TUO_USERNAME_TELEGRAM)
+# Benvenuto!👋
 
 <h2>👨‍💻 Chi Sono</h2>
 
-- 🎓 **Studente di Cyber Security** con una grande passione per l'Hacking Etico e l'Amministrazione di Sistema.
+- 🎓 Mi chiamo Bruno e sono uno **Studente di Cyber Security** con una grande passione per l'Hacking Etico.
 - 🏠 Attualmente impegnato a blindare il mio **Home Lab / Home Server**.
-- 🛠️ Credo fermamente nel **"Security by Design"** e nell'automazione.
+-  Credo fermamente nel **"Security by Design"** e nell'automazione.
 
 <h2>🚀 I Miei Progetti</h2>
 
@@ -32,7 +29,7 @@
 -   **Linux:** (Debian, Ubuntu) 🐧
 -   **Virtualizzazione:** Docker, Proxmox 🐳
 
-  <h2>💡 La mia "attrezzatura"</h2>
+  <h2>🛠️ La mia "attrezzatura"</h2>
 
 ### 🛡️ Cyber Security
 -   Penetration Testing (Network & Web)
