@@ -8,8 +8,7 @@
 
 | Stato | Progetto | Descrizione | Tech Stack |
 | :--- | :--- | :--- | :--- |
-| 🛡️ *In Sviluppo* | **[Mio-HIDS]** | Un Intrusion Detection System fatto in casa che monitora il traffico e invia allarmi su Telegram. | Python, Scapy, UFW, Telegram API |
-| 🐳 *Attivo* | **Docker-Home-Server** | Configurazione sicura per i servizi del mio server casalingo (Nginx, Pi-hole, ecc.). | Docker, YAML, Bash |
+| 🛡️ *In Sviluppo* | **[IDS]** | Un Intrusion Detection System che monitora il traffico e invia allarmi su Telegram. | Python, Scapy, UFW, Telegram API |
 
 <h2>💡 Competenze Tecniche</h2>
 
