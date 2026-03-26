@@ -8,7 +8,7 @@
 
 | Stato | Progetto | Descrizione | Tech Stack |
 | :--- | :--- | :--- | :--- |
-| 🛡️ *In Sviluppo* | **[IDS]** | Un Intrusion Detection System che monitora il traffico e invia allarmi su Telegram. | Python, Scapy, UFW, Telegram API |
+| 🛡️ *In Sviluppo* | **[IDS]** | Un Intrusion Detection System che monitora il traffico e invia allarmi su Telegram. | Python, UFW, Telegram API |
 
 <h2>💡 Competenze Tecniche</h2>
 
