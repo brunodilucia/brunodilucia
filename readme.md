@@ -13,9 +13,9 @@
 <h2>💡 Competenze Tecniche</h2>
 
 ### 🛡️ Cyber Security
--   Penetration Testing (Network & Web)
--   Gestione di IDS/IPS & Firewall (UFW, iptables)
--   Log Analysis & Incident Response
+-   Penetration Testing (Network & Web)🕵️‍♂️
+-   Log Analysis & Incident Response🔬
+-   Malware Analysis🦠
 
 ### 💻 Programmazione & Scripting
 -   **Python:** (Automazione, Network Tooling) 🐍
@@ -23,7 +23,7 @@
 -   **Markdown:** (Documentazione) 📝
 
 ### ⚙️ Sistemi & Infrastruttura
--   **Linux:** (Debian, Ubuntu) 🐧
+-   **Linux:** Ubuntu🐧
 -   **Virtualizzazione:** Docker, Proxmox 🐳
 
 ## 🛠️ La mia "attrezzatura"
@@ -37,11 +37,11 @@ Utilizzo **VirtualBox** per ricreare un ambiente isolato e sicuro che mi permett
 - 🎯 **Metasploitable** Macchina target per esercitazioni pratiche.
 - 🖥️ **Windows Server 2022:** Utilizzato per lo studio di Active Directory e delle relative falle di sicurezza.
 - 🖥️ **Windows XP/7/10:** Utile per studiare "la storia" sfruttando vecchie vulnerabilità di Windows.
-- 🦠 **FlareVM:** Utilizzato per la Malware Analysis.
+- 🖥️ **FlareVM:** Utilizzato per la Malware Analysis.
 
 ### 🔌 Home Server
 Il mio server casalingo dove risiede l'IDS che sto sviluppando:
-- **Hardware:** HP EliteDesk 800 G4]
+- **Hardware:** HP EliteDesk 800 G4
 - **OS:** Ubuntu Server
 - **Servizi Attivi:**
   - 🐳 **Docker:** Per containerizzare microservizi di monitoraggio.
